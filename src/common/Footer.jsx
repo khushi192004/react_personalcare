@@ -45,17 +45,7 @@ function Footer() {
               </div>
             </div>
           </div>
-          <div className="cs_bottom_footer d-flex cs_fs_14">
-            <ul className="cs_footer_links cs_mp_0">
-              <li>
-                <a href="/#">Privacy Policy</a>
-              </li>
-              <li>
-                <a href="/#">Terms & Condition</a>
-              </li>
-            </ul>
-            <p className="cs_copyright mb-0">Copyright © 2024 Glowify. All Rights Reserved.</p>
-          </div>
+          
         </div>
       </footer>
       {/* End Footer Section */}

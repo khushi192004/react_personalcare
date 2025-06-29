@@ -16,7 +16,7 @@ const Login = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();                  
-    // Add your login logic here, such as API call or authentication
+    // Add your login logic, such as API call or authentication
     console.log("Email:", email);
     console.log("Password:", password);
     // Reset fields after submission if needed

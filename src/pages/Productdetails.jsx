@@ -35,7 +35,7 @@ function ProductDetails() {
 
   return (
     <div>
-      {/* Start Product Details */}
+     
       <div className="container">
         <div className="cs_height_45 cs_height_lg_45" />
         <div className="cs_height_45 cs_height_lg_45" />
@@ -118,10 +118,9 @@ function ProductDetails() {
           </div>
         </div>
       </div>
-      {/* End Product Details */}
-
+   
       <div className="cs_height_120 cs_height_lg_70" />
-      {/* End Related Products */}
+      
     </div>
   );
 }
